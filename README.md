@@ -1,2 +1,3 @@
 # go_http-server
-简单的一个go http sever 实例
+实现一个简单的服务器端的go server
+本次代码是用于lemolabs.com上的自动化部署网站代码的，主要是访问配置的网站后会自动触发所编写的脚本实现git pull的功能
