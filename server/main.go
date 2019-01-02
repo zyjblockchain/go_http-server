@@ -6,7 +6,7 @@ import (
 	"os/exec"
 )
 
-func main() {
+func main03() {
 	// http请求处理
 	http.HandleFunc("/gitpull", handler1)
 	http.HandleFunc("/gitdev", handler2)
